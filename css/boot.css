@@ -1,0 +1,12 @@
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: lightgray;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-body {
+    text-align: center;
+}
